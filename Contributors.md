@@ -49,6 +49,7 @@
 - [SeekNDDestroy](https://github.com/SeekNDDestroy)
 - [Alex Macharia](https://github.com/alexmacharia)
 - [color00](https://github.com/color00)
+- [raiiasingh19](https://github.com/raiiasingh19)
 - [Devhoss](https://github.com/Devhoss)
 - [Hampton Ford](https://github.com/shford)
 - [Andrew Chang](https://github.com/acchang)
