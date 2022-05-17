@@ -6798,4 +6798,5 @@ Duncan Ledesma
 - [Travis Moore](https://github.com/trav382)
 - [Sam Kohl](https://github.com/Sam-Kohl)
 - [Justin LaPorta] (https://github.com/Justin-LaPorta)
+- [raiiasingh19](https://github.com/raiiasingh19)
 <!-- prettier-ignore-end -->
